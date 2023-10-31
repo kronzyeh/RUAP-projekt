@@ -11,6 +11,7 @@ namespace RuapLV1
         static void Main(string[] args)
         {
             Console.WriteLine("Pozdrav iz aplikacije od Tomislava Lučića!");
+            Console.WriteLine("Broj indeksa je: 16011601");
             Console.ReadLine();
         }
     }
