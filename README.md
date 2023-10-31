@@ -1,1 +1,1 @@
-Moj repozitorij za kolegij RUAP
+# RUAP-projekt
